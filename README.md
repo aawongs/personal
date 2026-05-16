@@ -72,3 +72,4 @@ ReadableRx does not provide medical advice, diagnose conditions, or change presc
 - Caregiver sharing mode
 - Medication card QR code
 - Integration with accessibility audits
+ 
